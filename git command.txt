@@ -1,0 +1,8 @@
+git ls
+je folder theke upload dibo age oitay jabo
+git init
+git remote add origin address ta
+git remote -v
+git add .
+git commit -m "First commit"
+git push  origin master
